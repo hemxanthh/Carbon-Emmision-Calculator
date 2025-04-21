@@ -10,30 +10,17 @@ Food Consumption: Beef, Chicken, Vegetables​
 
 📦 Installation
 Clone the Repository:
+git clone https://github.com/hemxanthh/carbon-emission-calculator.git
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/carbon-emission-calculator.git
-cd carbon-emission-calculator&#8203;:contentReference[oaicite:22]{index=22}
 Install Dependencies: Ensure you have Python 3.x installed.
+Run the Application
 
-Run the Application:
-
-bash
-Copy
-Edit
-python app.py
 📈 Usage
 Launch the application.​
 
 Select the category (Transportation, Electricity, Food).​
-
 Choose the specific activity (e.g., Car, Beef).​
-
 Enter the amount (e.g., kilometers traveled, kWh consumed, kilograms of food).​
 Kalle Marjokorpi
-
 Click on "Calculate Emission" to view the CO₂ emissions.​
-
 Use "View Total Emissions" to see a summary of all logged emissions.
